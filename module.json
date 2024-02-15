@@ -1,0 +1,8 @@
+{
+    "name": "Dye Spy",
+    "author": "Maxeman",
+    "description": "Spy on the RGBA values of other players' dyed items with command: /8 color",
+    "servers": ["https://raw.githubusercontent.com/Maxeman5126/Dye-Spy/master/"],
+    "version": "02/14/2024",
+    "disableAutoUpdate": false
+}
